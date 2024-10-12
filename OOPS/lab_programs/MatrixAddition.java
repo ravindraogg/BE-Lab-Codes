@@ -57,3 +57,30 @@ public class MatrixAddition {
         System.out.println();
     }
 }
+
+
+/*
+ OUTPUT
+PS C:\Users\ravi2> java 'd:\B.E 2nd Year Notes\3rd sem\OOPS JAVA\Java_project\MatrixAddition.java' 2
+Enter the elements of Matrix 1:
+1
+2
+5
+8
+Enter the elements of Matrix 2:
+5
+7
+9
+3
+Matrix 1:
+1       2
+5       8
+
+Matrix 2:
+5       7
+9       3
+
+Sum of the matrices:
+6       9
+14      11
+ */
