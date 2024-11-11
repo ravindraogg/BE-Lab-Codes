@@ -152,3 +152,97 @@ int safeseq() {
         printf("\nThe System is not in Safe State\n");
     return 0;
 }
+
+/*
+1.Input
+2.New Request
+3.Safe State or Not
+4.Print
+5.Exit
+Enter your choice: 1
+
+Enter the number of processes: 3
+Enter the number of resources: 3
+
+Enter the available resources:
+For Resource Type 0: 3
+For Resource Type 1: 3
+For Resource Type 2: 2
+
+Enter Max and Allocated Resources for P 0 :
+Enter the Max of Resources 0: 7
+Allocation of Resources 0: 0
+Enter the Max of Resources 1: 5
+Allocation of Resources 1: 1
+Enter the Max of Resources 2: 3
+Allocation of Resources 2: 0
+
+Enter Max and Allocated Resources for P 1 :
+Enter the Max of Resources 0: 3
+Allocation of Resources 0: 2
+Enter the Max of Resources 1: 2
+Allocation of Resources 1: 0
+Enter the Max of Resources 2: 2
+Allocation of Resources 2: 0
+
+Enter Max and Allocated Resources for P 2 :
+Enter the Max of Resources 0: 9
+Allocation of Resources 0: 3
+Enter the Max of Resources 1: 0
+Allocation of Resources 1: 0
+Enter the Max of Resources 2: 2
+Allocation of Resources 2: 2
+
+1.Input
+2.New Request
+3.Safe State or Not
+4.Print
+5.Exit
+Enter your choice: 3
+
+
+The System is in Safe State
+Safe Sequence: P1 P0 P2
+
+1.Input
+2.New Request
+3.Safe State or Not
+4.Print
+5.Exit
+Enter your choice: 2
+
+
+Requesting Process ID: 1
+Number of Request for Resource 0: 1
+Number of Request for Resource 1: 0
+Number of Request for Resource 2: 2
+
+Request committed.
+The System is in Safe State
+Safe Sequence: P1 P0 P2
+
+1.Input
+2.New Request
+3.Safe State or Not
+4.Print
+5.Exit
+Enter your choice: 4
+
+Number of Process: 3
+Number of Resources: 3
+
+Pid     Max         Allocated       Need
+P0 :    7 5 3       0 1 0           7 4 3
+P1 :    3 2 2       3 0 2           0 2 0
+P2 :    9 0 2       3 0 2           6 0 0
+
+Available:
+2 3 0
+
+1.Input
+2.New Request
+3.Safe State or Not
+4.Print
+5.Exit
+Enter your choice: 5
+*/
