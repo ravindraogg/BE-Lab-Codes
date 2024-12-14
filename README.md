@@ -74,15 +74,3 @@ The programs demonstrate problem-solving techniques and application of core conc
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-### Keywords for SEO Optimization
-
-- BCS303 Lab Programs
-- DSA Lab Exercises
-- OOP with Java
-- OS Lab Solutions
-- Academic Projects for 3rd Semester
-
----
-
-Feel free to contribute or raise issues to improve this repository!
