@@ -67,7 +67,7 @@ The programs demonstrate problem-solving techniques and application of core conc
 
 ## Contributors
 
-- [Ravindra S.](https://github.com/ravindraogg) *(Author and Maintainer)*
+- [Ravindra S.](https://github.com/ravindraogg)
 
 ## License
 
