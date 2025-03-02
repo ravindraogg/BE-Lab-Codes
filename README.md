@@ -1,6 +1,8 @@
-# 3rd_SEM Repository
+# VTU-LAB Repository
 
-Welcome to the **3rd_SEM** repository, featuring lab programs for courses such as **BCS303**, **BCSL305**, **BCS304**, and **BCS306A**. This repository is a comprehensive resource for Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), and Operating Systems (OS) labs. The programs are implemented in **C** and **Java**, focusing on academic and practical learning.
+Welcome to the VTU-LAB repository, featuring lab programs for courses such as BCS303, BCSL305, BCS304, BCS306A, BCS401, BCS402, BCS403, BCSL404, and BDSL456B.
+
+This repository is a comprehensive resource for Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems (OS), Analysis & Design of Algorithms (ADA), Microcontrollers, and Database Management Systems (DBMS), including MongoDB. The programs are implemented in C and Java, focusing on academic and practical learning.
 
 ## Table of Contents
 
@@ -10,6 +12,10 @@ Welcome to the **3rd_SEM** repository, featuring lab programs for courses such a
   - [DSA Lab](#dsa-lab)
   - [OOP Lab](#oop-lab)
   - [OS Lab](#os-lab)
+  - [DAA Lab](#daa-lab)
+  - [Microcontroller Lab](#mc-lab)
+  - [DBMS Lab](#dbms-lab)
+  - [MongoDB Lab](#mongodb-lab)
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [License](#license)
