@@ -1,4 +1,3 @@
-//write
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <sys/types.h>
@@ -17,8 +16,6 @@ unlink(myfifo);
 return 0;
 }
 
-
-//READ ONLY
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <sys/types.h>

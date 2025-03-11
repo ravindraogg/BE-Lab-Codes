@@ -44,7 +44,7 @@ void main() {
     }
 
     Arr_time_Sorting();
-    process_queue[9].priority = 9999;  // Sentinel for the largest priority
+    process_queue[9].priority = 9999;  
     
     printf("\nProcess Name\tArrival Time\tBurst Time\tPriority\tWaiting Time\tTurnAround Time");
     

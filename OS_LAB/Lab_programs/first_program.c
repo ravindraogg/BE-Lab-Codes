@@ -1,8 +1,8 @@
-#include <stdio.h>     // printf()
-#include <stdlib.h>    // exit()
-#include <sys/types.h> // pid_t
-#include <sys/wait.h>  // wait()
-#include <unistd.h>    // fork
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <sys/wait.h>
+#include <unistd.h>
 int main(int argc, char **argv)
 {
     pid_t pid;
