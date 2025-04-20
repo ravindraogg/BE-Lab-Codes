@@ -1,0 +1,12 @@
+Write a program to find factorial of a number
+AREA FACT,CODE,READONLY
+ENTRY
+MOV R0,#4
+MOV R1,#01
+BACK 	MUL R2,R0,R1
+MOV R1,R2
+SUBS R0,R0,#01
+CMP R0,#00
+BNE BACK
+STOP B STOP
+END
