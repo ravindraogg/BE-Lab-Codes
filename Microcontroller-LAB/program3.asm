@@ -1,0 +1,9 @@
+	AREA Multiply,CODE,READONLY;
+	ENTRY;
+
+START;
+	MOV R0, #6400;
+	MOV R1, #3200;
+	MUL R2, R0, R1;
+ S	B S ;
+	END	
